@@ -1,0 +1,10 @@
+aggiungi tabella
+
+comandi:
+    layout : modifica formato di testo
+    grafic : include un grafico
+    line : va a capo riga nella presentazione
+    page : crea una nuova pagina nella presentazione
+    image : include un immagine
+    table : include una tabella
+    draw : include un disegno

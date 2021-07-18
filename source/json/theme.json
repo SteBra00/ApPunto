@@ -1,0 +1,65 @@
+{
+    "light": {
+        "background": "#ffffff",
+        "foreground": "#000000",
+        "tag_color": "#0d8080",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "dark": {
+        "background": "#222222",
+        "foreground": "#ffffff",
+        "tag_color": "#6b00b8",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "Orange": {
+        "background": "#ff970f",
+        "foreground": "#a80a0a",
+        "tag_color": "#000000",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "Ocean": {
+        "background": "#005896",
+        "foreground": "#ffffff",
+        "tag_color": "#233a4a",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "Fire": {
+        "background": "#ff3064",
+        "foreground": "#e3e30b",
+        "tag_color": "#ff8c00",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "Soft Light": {
+        "background": "#cbf3f5",
+        "foreground": "#323333",
+        "tag_color": "#0d8080",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "Soft Dark": {
+        "background": "#413d47",
+        "foreground": "#ffffff",
+        "tag_color": "#6b00b8",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "Violet": {
+        "background": "#8000ff",
+        "foreground": "#000000",
+        "tag_color": "#ffffff",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": 9
+    },
+    "personal": {
+        "background": "#202020",
+        "foreground": "#dadada",
+        "tag_color": "#651fff",
+        "font_family": "Bahnschrift SemiBold",
+        "font_size": "9"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "theme": "Soft Light",
+    "functions": {
+        "F1": {
+            "title": "Page",
+            "string": "<page>\n\tpage title\n</page>"
+        },
+        "F2": {
+            "title": "Line",
+            "string": "<new>"
+        },
+        "F3": {
+            "title": "Title",
+            "string": "<layout(style=bold,size=22)>\n\ttitle\n</layout>"
+        },
+        "F4": {
+            "title": "Subtitle",
+            "string": "<layout(style=italic,size=17)>\n\tsubtitle\n</layout>"
+        },
+        "F5": {
+            "title": "Layout",
+            "string": "<layout>\n\ttext\n</layout>"
+        },
+        "F6": {
+            "title": "Image",
+            "string": "<image(file=file.jpg,align=center)>\n\ttitle image\n</image>"
+        },
+        "F7": {
+            "title": "Draw",
+            "string": "<draw(x=300,y=300,align=center)>\n\ttitle draw\n</draw>"
+        },
+        "F8": {
+            "title": "Graphic",
+            "string": "<graphic(x=300,y=300,align=center)>\n\ttitle graphic\n</graphic>"
+        },
+        "F9": {
+            "title": "Infinito",
+            "string": "\u221e"
+        },
+        "F10": {
+            "title": "Tab",
+            "string": "    "
+        },
+        "F11": {
+            "title": "void",
+            "string": ""
+        },
+        "F12": {
+            "title": "void",
+            "string": ""
+        }
+    },
+    "scroll_bar_y": 1,
+    "scroll_bar_x": 0,
+    "minisize": 1,
+    "view_patch": 0,
+    "view_tag": 1,
+    "auto_indent": 0,
+    "link": 0,
+    "project_tree": 0
+}
